@@ -1,8 +1,8 @@
  ## Hi, I'm Gara Tanmai! 👋  
-🚀 2nd Year CSE Student at Anurag University  
+🚀 3rd Year CSE Student at Anurag University  
 💻 Skilled in Python, SQL, Java, C++  
 🏆 Hackathon Winner | AI & Automation Enthusiast  
-🔍 Currently exploring Open Source & System Design  
+🔍 Currently exploring Open Source & fullstack 
 
 ### 🔹 My Top Projects  
 - 🚗 **Car Accident AI Detector** – Real-time accident detection using AI  
